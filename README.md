@@ -21,7 +21,7 @@ Step 2.
 - Install the plugin throug the plugin section in the web gui.
 
 # OBS
-This plugin is only been tested on a clean install and I don't take any responsiblility for any dataloss you are having.
+This plugin has only been tested on a clean install and I don't take any responsiblility for any dataloss you are having.
 
 # Warning
 If already using Tautulli from github don't enable Tautulli in this plugin.<br> 
