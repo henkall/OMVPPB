@@ -8,18 +8,22 @@ I Like to share. :P
 
 If using OMV-Extras and having Plex reposistory turned on in Openmediavault then skip Step 1 
 
-Step 1
-Run these two commands in ssh before installing deb
+Step 1.
+- Run these two commands in ssh before installing deb
 ```
 echo deb https://downloads.plex.tv/repo/deb/ ./public main | sudo tee -a /etc/apt/sources.list.d/plexrep.list
 apt update.
 ```
 
-Step 2
-Install the pluging throug the web gui in the plugin section.
+Step 2.
+- Install the plugin throug the plugin section in the web gui.
 
 # OBS
 This plugin is only been tested on a clean install and I don't take any responsiblility for any dataloss you are having.
+
+# Warning
+If already using Tautulli from github don't enable Tautulli in this plugin.<br> 
+As I said "I don't take any responsiblility for any dataloss you are having"
 
 # Ekstras 
 Only for checking if repository is there:
