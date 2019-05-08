@@ -1,6 +1,8 @@
 # OMVPPB
-Openmediavault Plex Plugin Backup files. <br>
-This is just a place where i put some backup files so it is awailible to everyone.
+Openmediavault Plex Plugin backup files. <br>
+This is just a place where i put some backup files so it is available to everyone.
+
+This is only a backup of the files I have been using to rewrite the openmediavault-plexmediacenter plugin and a way to repackage the deb again
 
 I Like to share. :P
 
@@ -25,7 +27,7 @@ This plugin is only been tested on a clean install and I don't take any responsi
 If already using Tautulli from github don't enable Tautulli in this plugin.<br> 
 As I said "I don't take any responsiblility for any dataloss you are having"
 
-# Ekstras 
+# Extras 
 Only for checking if repository is there:
 ```
 find /etc/apt/ -name *.list | xargs cat | grep  ^[[:space:]]*deb | grep plex
